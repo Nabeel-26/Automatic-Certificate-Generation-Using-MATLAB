@@ -1,5 +1,7 @@
 # MATLAB-Certificate-Generation
 
+MATLAB code to generate certificates
+
 The project aims to develop a software application that automates the process of certificate generation using the powerful capabilities of MATLAB. The project uses the image processing and document generation features of MATLAB to create a user friendly tool for quickly and accurately creating certificates for a variety of purposes, such as academic achievement, professional certification, or event participation. 
 The software application offers a simplified interface that allows users to enter relevant information such as the recipient’s name, event or course details and any other 
 customized content. The input data is then processed using MATLAB image processing techniques to enhance the aesthetics of the certificate, including background design, 
